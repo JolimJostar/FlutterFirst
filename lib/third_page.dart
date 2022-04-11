@@ -16,7 +16,7 @@ class ThirdPage extends StatelessWidget {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: const [
-              DogName(name: 'Боня'),
+              DogName(name: 'Бонья'),
               SizedBox(height: 8.0),
               DogName(name: 'Мася'),
               SizedBox(height: 8.0),
